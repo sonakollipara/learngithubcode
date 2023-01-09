@@ -1,2 +1,2 @@
 # learngithubcode
-i am learning github commands for first time
+going to apply for hi visa in january 2023
