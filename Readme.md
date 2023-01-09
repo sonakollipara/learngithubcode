@@ -1,2 +1,2 @@
 # git tutorial
-git tutorial fr first time
+git tutorial for first time
